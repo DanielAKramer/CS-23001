@@ -1,7 +1,7 @@
 /*
 	Daniel Kramer
 	CS23001
-	Bigint.hpp
+	bigint.hpp
 */
 
 #ifndef BIGINT_HPP
