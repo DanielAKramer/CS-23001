@@ -4,8 +4,8 @@
 	utilities.cpp
 */
 
-#include "utilities.h"
-#include "string.h"
+#include "utilities.hpp"
+#include "string.hpp"
 
 
 //free function that converts infix to postfix
