@@ -7,8 +7,8 @@
 #ifndef UTILITIES_HPP
 #define UTILITIES_HPP
 
-#include "stack.h"
-#include "string.h"
+#include "stack.hpp"
+#include "string.hpp"
 #include <vector>
 
 
